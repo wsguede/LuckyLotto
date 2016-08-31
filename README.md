@@ -1,6 +1,9 @@
 # LuckyLotto
 
 clone locally
+```
+git clone https://github.com/wsguede/LuckyLotto
+```
 
 then run 
 ```

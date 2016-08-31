@@ -7,7 +7,7 @@ git clone https://github.com/wsguede/LuckyLotto
 
 then run 
 ```
-gradle bootRun
+gradlew bootRun
 ```
 ---
 
